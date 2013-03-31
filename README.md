@@ -27,6 +27,7 @@ http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/guide-to-data-minin
 Finding out what data mining is and what problems it solves. What will you be able to do when you finish this book.
 
 ##Chapter 2: Get Started with Recommendation Systems
+http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/guide-to-data-mining/master/Chapter2.ipynb
 
 Introduction to social filtering. Basic distance measures including Manhattan distance, Euclidean distance, and Minkowski distance. Pearson Correlation Coefficient. Implementing a basic algorithm in Python.
 
