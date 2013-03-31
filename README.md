@@ -1,7 +1,7 @@
-guide-to-data-mining
-====================
 #A Programmer's Guide to Data Mining
 ###The Ancient Art of the Numerati
+________________________________
+
 iPython Notebook of the Guide to Data Mining http://guidetodatamining.com/
 
 ##Welcome
