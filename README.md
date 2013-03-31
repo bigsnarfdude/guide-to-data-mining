@@ -58,7 +58,8 @@ http://guidetodatamining.com/guide/ch5/DataMining-ch5.pdf
 http://guidetodatamining.com/guide/ch6/DataMining-ch6.pdf
 
 
-Acknowledgements
+###Acknowledgements
+
 I would like to acknowledge the following people who read through previous drafts and offered corrections and suggestions:
 
 Renee Cardigan
