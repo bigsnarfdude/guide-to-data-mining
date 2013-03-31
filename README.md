@@ -56,3 +56,16 @@ http://guidetodatamining.com/guide/ch3/DataMining-ch3.pdf
 http://guidetodatamining.com/guide/ch4/DataMining-ch4.pdf
 http://guidetodatamining.com/guide/ch5/DataMining-ch5.pdf
 http://guidetodatamining.com/guide/ch6/DataMining-ch6.pdf
+
+
+Acknowledgements
+I would like to acknowledge the following people who read through previous drafts and offered corrections and suggestions:
+
+Renee Cardigan
+Matt Martin
+Zwe Maung
+Christopher Randles
+Amy Sams
+Jessica White
+Deng Wu
+Erin Wuepper
