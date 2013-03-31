@@ -21,7 +21,8 @@ This guide follows a learn-by-doing approach. Instead of passively reading the b
 
 This book’s contents are freely available as PDF files. When you click on a chapter title below, you will be taken to a webpage for that chapter. The page contains links for a PDF of that chapter and for any sample Python code and data that chapter requires. In addition, there is a space for you to add comments. Please let me know if you see an error in the book, if some part of the book is confusing, or if you have some other comment. I will use these comments to revise the chapters.
 
-##Chapter 1: Introduction
+##Chapter 1: Introduction 
+http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/guide-to-data-mining/master/Guide-To-Data-Mining.ipynb
 
 Finding out what data mining is and what problems it solves. What will you be able to do when you finish this book.
 
