@@ -30,6 +30,21 @@ Finding out what data mining is and what problems it solves. What will you be ab
 
 Introduction to social filtering. Basic distance measures including Manhattan distance, Euclidean distance, and Minkowski distance. Pearson Correlation Coefficient. Implementing a basic algorithm in Python.
 
+###Getting Started with Recommendation Systems
+
+####Contents
+
+How a recommendation system works.
+How social filtering works
+How to find similar items
+Manhattan distance
+Euclidean distance
+Minkowski distance
+Pearson Correlation Coefficient
+Cosine similarity
+implementing k-nearest neighbors in Python
+the Book Crossing dataset
+
 ##Chapter 3: Implicit ratings and item-based filtering
 
 This chapter starts with a discussion of the types of user ratings we can use. Users can explicitly give ratings (thumbs up, thumbs down, 5 stars, or whatever) or they can rate products implicitly–if they buy an mp3 from Amazon, we can view that purchase as a ‘like’ rating.
