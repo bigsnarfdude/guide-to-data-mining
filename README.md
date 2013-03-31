@@ -2,7 +2,7 @@
 ###The Ancient Art of the Numerati
 ________________________________
 
-iPython Notebook of the Guide to Data Mining http://guidetodatamining.com/
+Collection of iPython Notebooks of the Guide to Data Mining http://guidetodatamining.com/
 
 ##Welcome
 A guide to practical data mining, collective intelligence, and building recommendation systems by Ron Zacharski
