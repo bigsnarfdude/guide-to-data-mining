@@ -6,7 +6,8 @@ iPython Notebook of the Guide to Data Mining http://guidetodatamining.com/
 ##Welcome
 A guide to practical data mining, collective intelligence, and building recommendation systems by Ron Zacharski
 
-http://guidetodatamining.com/wp-content/uploads/2012/10/mozi.jpeg
+![alt text][logo]
+[logo]: http://guidetodatamining.com/wp-content/uploads/2012/10/mozi.jpeg "Guide to Data Mining"
 
 
 Before you is a tool for learning basic data mining techniques. Most data mining textbooks focus on providing a theoretical foundation for data mining, and as result, may seem notoriously difficult to understand. Don’t get me wrong, the information in those books is extremely important. However, if you are a programmer interested in learning a bit about data mining you might be interested in a beginner’s hands-on guide as a first step. That’s what this book provides.
