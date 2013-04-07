@@ -47,7 +47,7 @@ implementing k-nearest neighbors in Python
 the Book Crossing dataset
 
 ##Chapter 3: Implicit ratings and item-based filtering
-http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/guide-to-data-mining/master/Chapter-3-Collaborative-Filtering.ipynb
+http://nbviewer.ipython.org/urls/raw.github.com/bigsnarfdude/guide-to-data-mining/master/Chapter-3-Implicit-ratings-and-item-based-filtering.ipynb
 
 This chapter starts with a discussion of the types of user ratings we can use. Users can explicitly give ratings (thumbs up, thumbs down, 5 stars, or whatever) or they can rate products implicitly–if they buy an mp3 from Amazon, we can view that purchase as a ‘like’ rating.
 
